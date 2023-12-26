@@ -1,0 +1,17 @@
+.btn-fancy {
+    /* background-color: #ccff40;  */
+    color: #fff; 
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    transition: background-color 0.3s ease;
+  
+   
+  }
+  
+  .btn-fancy:hover {
+    background-color: #1b89d8; /* Customize the background color on hover */
+  }
+  

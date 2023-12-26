@@ -1,0 +1,28 @@
+.navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  
+  .nav-link {
+    color: white !important;
+  }
+  
+  .nav-link:hover {
+    color: rgb(6, 5, 41) !important;
+  }
+  
+  .btn-fancy {
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-fancy:hover {
+    color: cyan;
+  }
+  

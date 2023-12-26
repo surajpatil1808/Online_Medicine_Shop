@@ -1,0 +1,13 @@
+.app-container {
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  h3{
+    color: rgb(23, 32, 32);
+  }
+
+  .heading{
+    color: azure;
+  }
